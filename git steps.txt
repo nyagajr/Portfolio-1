@@ -1,0 +1,21 @@
+1.navigate into projects folder
+2.git init .
+3.git add .
+4.git commit -m "any message"
+5.git remote add origin https://github.com/OnyangoAmondi/Portfolio.git (copy directly)
+6.git push -u origin (branch name)
+
+
+Creating a branch
+git branch (branch name)
+
+---switching to different branch
+git checkout (branch name) 
+
+pushing changes to the github project
+1.git status (confirm it's red)
+2.git add .
+3.git status (confirm it's green)
+4.git commit -m 'any message'
+5.git push -u origin {branch name)
+
